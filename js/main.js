@@ -2510,7 +2510,7 @@ var link, jsGame; (function() {
 		function(e) {
 			e.asyncImage([{
 				id: "host",
-				src: "images/test_draw.png"
+				src: "images/xiaoren.png"
 			}]);
 			var t = ["host"],
 				n = [[[0, 0, 26, 37], [27, 0, 19, 36], [46, 0, 22, 38]]],
